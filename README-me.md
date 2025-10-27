@@ -58,8 +58,8 @@ Concrètement j'aimerais approfondir l'utilisation du css pour embellir l'aspect
 ## Author
 
 - Website - [Gédéon DOMWA](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@saberhoodzeno-bot](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@LesGedos](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
